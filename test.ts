@@ -1,4 +1,4 @@
-import { Fightcade } from '/fightcade-api-main/src/fightcade-api.ts';
+import { Fightcade } from 'fightcade-api-main/src/fightcade-api.ts';
 
 try {
     // Print the amount of ranked matches per game for the user 'biggs'.
