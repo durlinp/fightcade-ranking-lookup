@@ -1,4 +1,4 @@
-import { Fightcade } from 'fightcade-api-main/package.json';
+import { Fightcade } from '/fightcade-api-main';
 
 try {
     // Print the amount of ranked matches per game for the user 'biggs'.
