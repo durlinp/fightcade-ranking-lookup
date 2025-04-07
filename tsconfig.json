@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "moduleResolution": "node",
+      "baseUrl": "./",
+      "paths": {
+        "fightcade-api-main/*": ["fightcade-api-main/*"]
+      }
+    }
+  }
